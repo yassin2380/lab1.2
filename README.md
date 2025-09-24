@@ -1,3 +1,3 @@
 # lab1.2
-yasso 
-test
+yassin
+fun fact
